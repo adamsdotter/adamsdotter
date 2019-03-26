@@ -1,7 +1,7 @@
 <?php
 
-	$title = 'Home of Patricia Adamsson, aka Mjau';
-	$description = 'Home of Web Developer and shoe loving Patricia Adamsson a.k.a mjau.';
+	$title = 'Home of Patricia Adamsson';
+	$description = 'Home of Front-end Developer Patricia Adamsson';
 	$canonical = 'http://www.adamsdotter.se';
 	$pageName = 'mjau index';
 
@@ -11,13 +11,11 @@
 
 	<article role="main">
 		<section>
-			<h1>Home of Patricia Adamsson</h1>
+			<h1>Hi! I'm Patricia Adamsson.</h1>
 			<p>
-				Welcome to the home of web developer Patricia Adamsson, a.k.a Mjau. The graphical things on this website, are things that in some way represent me. :)
-			</p>
-			<p>
-				I'm a freelancing Frontend Developer at my own company <a href="http://www.dev-cat.com">DevCat</a>.
-				Stockholm is my home town but I live in Berlin since a few years back. I'm open for projects both in Stockholm and Berlin, or partly/fully remotely.
+				I'm a freelancing Front-end developer, working at my own company <a href="http://www.dev-cat.com">DevCat</a>.
+				Stockholm is my hometown but I live in Berlin since some years back.
+				I'm open for projects both in Stockholm and Berlin, partly or fully remotely.
 			</p>
 			<p>
 				Please feel free to <a href="/contact/">contact me</a> if you've got any questions.

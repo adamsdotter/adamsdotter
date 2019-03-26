@@ -1,6 +1,6 @@
 <?php
 
-	$title = 'About Patricia Adamsson, a.k.a Mjau';
+	$title = 'About Patricia Adamsson';
 	$description = 'Get to know Web Developer Patricia Adamsson.';
 	$canonical = 'http://www.adamsdotter.se/about-patricia-adamsson/';
 	$pageName = 'mjau about';
@@ -24,13 +24,14 @@
 						I’ve been working as a Front-end developer professionally, full-time since 2008.
 						In 2014 I moved to Berlin but continued to be employed in Stockholm.
 						I ended up working over 4 years 100% remotely from Berlin.
+					</p>
+					<p>
 						In January 2018 I became a freelancer. Since then I’ve been working on a Stockholm based project,
 						1-2 weeks in Stockholm and the rest remotely in Berlin.
 					</p>
 					<p>
 						My biggest passion lays within Front-end techniques such as JavaScript, CSS and HTML.
 						I love to build semantically correct, responsive websites which are available on all devices and for everyone.
-						Therefore are a11y and SEO two very important things that I always keep in the back of my head when coding.
 						Until 2015 I was mainly jQuery-focused.
 						Since then I’ve focused on component-based Vanilla JS and SPA’s built in Vue, React and Angular.
 					</p>
