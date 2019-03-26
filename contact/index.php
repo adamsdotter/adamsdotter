@@ -11,9 +11,9 @@
 	<article role="main">
 		<section>
 			<h1>Contact <span>Patricia Adamsson</span></h1>
-			<p>Don't hesitate to hit me up if you've got any questions or just wanna drop a line.</p>
+			<p>Don't hesitate to hit me up if you've got any questions or just wanna drop me a line.</p>
 			<dl>
-				<dt>Email:</dt><dd><a href="mailto:mjau@adamsdotter.se">mjau@adamsdotter.se</a></dd>
+				<dt>Email:</dt><dd>hello(at)devcat.com</dd>
 				<dt>Twitter:</dt><dd><a href="http://twitter.com/_mjau">_mjau</a></dd>
 				<dt>LinkedIn:</dt><dd><a href="http://www.linkedin.com/in/patriciaadamsson">patriciaadamsson</a></dd>
 				<dt>Github:</dt><dd><a href="https://github.com/adamsdotter">@adamsdotter</a></dd>
